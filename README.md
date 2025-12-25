@@ -16,4 +16,4 @@ Built using HTML, CSS, JavaScript and MySQL.
 - JavaScript
 - MySQL
 
-## SQL Schema
+## SQL 
